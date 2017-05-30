@@ -1,0 +1,10 @@
+{
+    "name": "163music",
+    "displayname": "网易云音乐",
+    "description": "网易云音乐歌词库",
+    "version": "1.0",
+    "module": "163.php",
+    "type": "lyric",
+    "class": "neteaseLyric"
+}
+
